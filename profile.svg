@@ -13,7 +13,7 @@
     <text x="36" y="116" fill="#79c0ff">"name"</text><text x="36" y="116" fill="#79c0ff" dx="66"> :</text><text x="36" y="116" fill="#a5d6ff" dx="82"> "Muhammad Ihsan Ramadhan"</text><text x="36" y="116" fill="#484f58" dx="352">,</text>
     <text x="36" y="138" fill="#79c0ff">"role"</text><text x="36" y="138" fill="#79c0ff" dx="66"> :</text><text x="36" y="138" fill="#7ee787" dx="82"> "Student"</text><text x="36" y="138" fill="#484f58" dx="180">,</text>
     <text x="36" y="160" fill="#79c0ff">"campus"</text><text x="36" y="160" fill="#79c0ff" dx="84"> :</text><text x="36" y="160" fill="#a5d6ff" dx="100"> "Bandung State Polytechnic"</text><text x="36" y="160" fill="#484f58" dx="348">,</text>
-    <text x="36" y="182" fill="#79c0ff">"location"</text><text x="36" y="182" fill="#79c0ff" dx="102"> :</text><text x="36" y="182" fill="#a5d6ff" dx="118"> "Bandar Lampung, Indonesia"</text><text x="36" y="182" fill="#484f58" dx="338">,</text>
+    <text x="36" y="182" fill="#79c0ff">"location"</text><text x="36" y="182" fill="#79c0ff" dx="102"> :</text><text x="36" y="182" fill="#a5d6ff" dx="118"> "Indonesia"</text><text x="36" y="182" fill="#484f58" dx="338">,</text>
     <text x="36" y="204" fill="#79c0ff">"interests"</text><text x="36" y="204" fill="#79c0ff" dx="108"> :</text><text x="36" y="204" fill="#ffa657" dx="124"> ["full-stack dev", "game dev", "QA"]</text><text x="36" y="204" fill="#484f58" dx="438">,</text>
     <text x="36" y="226" fill="#79c0ff">"motto"</text><text x="36" y="226" fill="#79c0ff" dx="72"> :</text><text x="36" y="226" fill="#ff7b72" dx="88"> "control the controllables"</text>
     <text x="20" y="248" fill="#e3b341">}</text>
