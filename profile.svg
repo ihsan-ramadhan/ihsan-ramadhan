@@ -5,20 +5,19 @@
   <circle cx="22" cy="19" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
   <circle cx="66" cy="19" r="6" fill="#27ca40"/>
-  <text x="340" y="24" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" fill="#484f58">ihsan@polban ~ — zsh</text>
-  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
+  <text x="340" y="24" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="11" fill="#484f58">ihsan.is-a.dev</text>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" xml:space="preserve">
     <text x="20" y="66" fill="#27ca40">❯</text>
     <text x="38" y="66" fill="#c9d1d9">cat profile.json</text>
     <text x="20" y="94" fill="#e3b341">{</text>
-    <text x="36" y="116" fill="#79c0ff">"name"</text><text x="36" y="116" fill="#79c0ff" dx="66"> :</text><text x="36" y="116" fill="#a5d6ff" dx="82"> "Muhammad Ihsan Ramadhan"</text><text x="36" y="116" fill="#484f58" dx="352">,</text>
-    <text x="36" y="138" fill="#79c0ff">"role"</text><text x="36" y="138" fill="#79c0ff" dx="66"> :</text><text x="36" y="138" fill="#7ee787" dx="82"> "Student"</text><text x="36" y="138" fill="#484f58" dx="180">,</text>
-    <text x="36" y="160" fill="#79c0ff">"campus"</text><text x="36" y="160" fill="#79c0ff" dx="84"> :</text><text x="36" y="160" fill="#a5d6ff" dx="100"> "Bandung State Polytechnic"</text><text x="36" y="160" fill="#484f58" dx="348">,</text>
-    <text x="36" y="182" fill="#79c0ff">"location"</text><text x="36" y="182" fill="#79c0ff" dx="102"> :</text><text x="36" y="182" fill="#a5d6ff" dx="118"> "Indonesia"</text><text x="36" y="182" fill="#484f58" dx="338">,</text>
-    <text x="36" y="204" fill="#79c0ff">"interests"</text><text x="36" y="204" fill="#79c0ff" dx="108"> :</text><text x="36" y="204" fill="#ffa657" dx="124"> ["full-stack dev", "game dev", "QA"]</text><text x="36" y="204" fill="#484f58" dx="438">,</text>
-    <text x="36" y="226" fill="#79c0ff">"motto"</text><text x="36" y="226" fill="#79c0ff" dx="72"> :</text><text x="36" y="226" fill="#ff7b72" dx="88"> "control the controllables"</text>
-    <text x="20" y="248" fill="#e3b341">}</text>
-    <text x="20" y="276" fill="#27ca40">❯</text>
-    <rect x="38" y="263" width="9" height="15" fill="#27ca40">
+    <text x="36" y="116"><tspan fill="#79c0ff">"name"</tspan><tspan fill="#c9d1d9">      : </tspan><tspan fill="#a5d6ff">"Muhammad Ihsan Ramadhan"</tspan><tspan fill="#c9d1d9">   ,</tspan></text>
+    <text x="36" y="138"><tspan fill="#79c0ff">"role"</tspan><tspan fill="#c9d1d9">      : </tspan><tspan fill="#a5d6ff">"Student"</tspan><tspan fill="#c9d1d9">                   ,</tspan></text>
+    <text x="36" y="160"><tspan fill="#79c0ff">"campus"</tspan><tspan fill="#c9d1d9">    : </tspan><tspan fill="#a5d6ff">"Bandung State Polytechnic"</tspan><tspan fill="#c9d1d9"> ,</tspan></text>
+    <text x="36" y="182"><tspan fill="#79c0ff">"location"</tspan><tspan fill="#c9d1d9">  : </tspan><tspan fill="#a5d6ff">"Indonesia"</tspan><tspan fill="#c9d1d9">                 ,</tspan></text>
+    <text x="36" y="204"><tspan fill="#79c0ff">"interests"</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#c9d1d9">[</tspan><tspan fill="#ffa657">"full-stack dev"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"open source"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"QA"</tspan><tspan fill="#c9d1d9">]</tspan></text>
+    <text x="20" y="226" fill="#e3b341">}</text>
+    <text x="20" y="254" fill="#27ca40">❯</text>
+    <rect x="38" y="241" width="9" height="15" fill="#27ca40">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
   </g>
