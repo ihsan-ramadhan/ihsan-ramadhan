@@ -14,7 +14,7 @@
     <text x="36" y="138"><tspan fill="#79c0ff">"role"</tspan><tspan fill="#c9d1d9">      : </tspan><tspan fill="#a5d6ff">"Student"</tspan><tspan fill="#c9d1d9">                   ,</tspan></text>
     <text x="36" y="160"><tspan fill="#79c0ff">"campus"</tspan><tspan fill="#c9d1d9">    : </tspan><tspan fill="#a5d6ff">"Bandung State Polytechnic"</tspan><tspan fill="#c9d1d9"> ,</tspan></text>
     <text x="36" y="182"><tspan fill="#79c0ff">"location"</tspan><tspan fill="#c9d1d9">  : </tspan><tspan fill="#a5d6ff">"Indonesia"</tspan><tspan fill="#c9d1d9">                 ,</tspan></text>
-    <text x="36" y="204"><tspan fill="#79c0ff">"interests"</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#c9d1d9">[</tspan><tspan fill="#ffa657">"full-stack dev"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"open source"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"QA"</tspan><tspan fill="#c9d1d9">]</tspan></text>
+    <text x="36" y="204"><tspan fill="#79c0ff">"interests"</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#c9d1d9">[</tspan><tspan fill="#ffa657">"software engineer"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"open source"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#ffa657">"infras"</tspan><tspan fill="#c9d1d9">]</tspan></text>
     <text x="20" y="226" fill="#e3b341">}</text>
     <text x="20" y="254" fill="#27ca40">❯</text>
     <rect x="38" y="241" width="9" height="15" fill="#27ca40">
